@@ -1,2 +1,2 @@
 # democrypto
-simple webpage creation
+simple webpage creation using html.
